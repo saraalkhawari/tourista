@@ -1,0 +1,7 @@
+body {
+  background: url('https://ksr-ugc.imgix.net/assets/015/903/334/2044f962c31653aba52259c052a2a3f8_original.jpg?ixlib=rb-2.1.0&w=680&fit=max&v=1489766858&auto=format&gif-q=50&q=92&s=d0fe92bfe7f4c46faf6d3482e956c777') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
